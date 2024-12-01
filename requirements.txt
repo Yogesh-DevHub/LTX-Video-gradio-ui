@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+einops
+accelerate
+matplotlib
+imageio[ffmpeg]
+gradio
+gradio_toggle
+torch>=2.1.0
+torchvision
+diffusers>=0.28.2
+transformers==4.44.2
+sentencepiece>=0.1.96
