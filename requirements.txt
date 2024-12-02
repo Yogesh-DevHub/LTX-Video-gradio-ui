@@ -1,12 +1,15 @@
 --extra-index-url https://download.pytorch.org/whl/cu124
-einops
-accelerate
-matplotlib
+einops==0.8.0
+accelerate==1.1.1
+matplotlib==3.9.3
 imageio[ffmpeg]
-gradio
-gradio_toggle
+gradio==5.7.1
+gradio_toggle==2.0.2
 torch>=2.1.0
 torchvision
 diffusers>=0.28.2
 transformers==4.44.2
 sentencepiece>=0.1.96
+wheel=0.44.0
+--extra-index-url https://download.pytorch.org/whl/nightly/cpu
+torchao
