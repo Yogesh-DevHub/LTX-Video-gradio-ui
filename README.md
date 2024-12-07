@@ -7,8 +7,8 @@ This is the official repository for LTX-Video.
 [Website](https://www.lightricks.com/ltxv) |
 [Model](https://huggingface.co/Lightricks/LTX-Video) |
 [Demo](https://fal.ai/models/fal-ai/ltx-video) |
-[Paper (Soon)](https://github.com/Lightricks/LTX-Video) 
-
+[Paper (Soon)](https://github.com/Lightricks/LTX-Video) |
+[Installation video ](https://youtu.be/f3YeAYoapyk?si=_SoN8EztoH_AZ0oM)
 </div>
 
 ## Table of Contents
